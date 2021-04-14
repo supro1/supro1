@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Machine Learning / NLP / Computer Vision**
 
-- 🌱 I’m currently learning **Trekking / Photography**
+- 🌱 My hobbies are **Trekking / Photography**
 
 - 📫 How to reach me **suprobhosantra@gmail.com**
 
